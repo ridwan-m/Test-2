@@ -9,7 +9,7 @@ public class Gaji{
 
 
         System.out.println();
-        System.out.println("Gapok = 4600897");
+        System.out.println("Gapok = `4600897");
         System.out.println("TunjanganAi = " + TunjanganAi);
         System.out.println("TunjanganA = " + TunjanganA);
         System.out.println("IP = " + IP);
